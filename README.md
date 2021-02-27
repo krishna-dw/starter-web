@@ -13,3 +13,5 @@ Sample website with plenty of files for demos
 Adding deployment description
 
 ## How To Contribute
+
+Adding contribution description

@@ -18,3 +18,7 @@ Adding deployment description
 ## How To Contribute
 
 Adding contribution description
+
+## Copyright
+
+Adding copyright description

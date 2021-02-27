@@ -24,5 +24,5 @@ Please form this repository and the review it
 
 ## Copyright
 
-Adding copyright description
+Adding copyright description All rights reserved
 

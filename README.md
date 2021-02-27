@@ -19,6 +19,9 @@ Adding deployment description
 
 Adding contribution description
 
+Please form this repository and the review it
+
 ## Copyright
 
 Adding copyright description
+
